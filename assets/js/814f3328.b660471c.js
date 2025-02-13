@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkyphan=self.webpackChunkkyphan||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"how to authorize github","permalink":"/website/blog/netrc","unlisted":false,"date":"2025-02-13T11:20:32.000Z"}]}')}}]);
