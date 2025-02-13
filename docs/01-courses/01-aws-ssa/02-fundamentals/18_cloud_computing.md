@@ -1,4 +1,4 @@
-# Cloud Computing
+# cloud computing
 
 ## Essential Characteristics
 
