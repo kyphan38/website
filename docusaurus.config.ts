@@ -6,11 +6,12 @@ const config: Config = {
   title: 'This is my place, bro!',
   favicon: 'img/earth.ico',
 
-  url: 'https://github.com',
-  baseUrl: '/kyphan/',
+  url: 'https://kyphan38.github.io',
+  baseUrl: '/website/',
 
   organizationName: 'kyphan38',
-  projectName: 'kyphan',
+  projectName: 'website',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
