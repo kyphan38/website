@@ -26,11 +26,12 @@ const config: Config = {
       'classic',
       {
         docs: {
-          path: 'docs',
-          sidebarPath: './sidebars.ts',
+          path: 'assets/docs',
+          sidebarPath: './sidebars/sidebars.ts',
+          routeBasePath: '/',
         },
         blog: {
-          path: 'blog',
+          path: 'assets/blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
