@@ -7,10 +7,10 @@ const config: Config = {
   favicon: 'img/earth.ico',
 
   url: 'https://kyphan38.github.io',
-  baseUrl: '/website/',
+  baseUrl: '/web/',
 
   organizationName: 'kyphan38',
-  projectName: 'website',
+  projectName: 'web',
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
