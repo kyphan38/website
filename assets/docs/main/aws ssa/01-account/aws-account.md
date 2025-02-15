@@ -8,13 +8,6 @@
 
 All unique emails, no pre-setup required
 
-For example
-
-- catguy@gmail.com
-  - cayguy+AWSAccount1@gmail.com
-  - cayguy+AWSAccount2@gmail.com
-  - cayguy+AWSAccount3@gmail.com
-
 ## MFA
 
 ![alt text](./img/3.png)
