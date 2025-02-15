@@ -29,6 +29,7 @@ const config: Config = {
           path: 'assets/docs',
           sidebarPath: './sidebars/sidebars.ts',
           routeBasePath: '/',
+          showLastUpdateTime: true,
         },
         blog: {
           path: 'assets/blog',
