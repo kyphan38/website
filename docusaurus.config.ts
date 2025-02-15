@@ -63,6 +63,7 @@ const config: Config = {
           label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/travel', label: 'Travel', position: 'left'},
       ],
     },
     footer: {
