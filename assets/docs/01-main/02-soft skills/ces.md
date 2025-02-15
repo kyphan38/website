@@ -42,7 +42,7 @@ Coherent
     - MP 2: Stay focused, ask questions, participate actively
     - MP 3: Summarize key points, use keywords
     - MP 4: Establish short-term and long-term goals, track progress
-  - Ensure Logical Flow: 
+  - Ensure Logical Flow:
     - Arrange main points in a logical sequence
     - Use transitions to connect ideas smoothly
   - Review and Edit
@@ -104,7 +104,6 @@ Visual aids and formatting for readability: Visual aids in simple emails aid und
 > Non-verbal communication can often convey emotions and attitudes more accurately than words, making it essential for understanding team dynamics and managing interpersonal relationships
 
 Body language: Body language speaks volumes and is often louder than words
-
 
 - Posture
 - Gestures

@@ -7,8 +7,8 @@ NIST - 5 characteristics
 On demand self-service
 
 - A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider
-- Can provision capabilities (features and products - VM, storage, databases or networking) as needed without requiring human interaction 
-  - You don't need to inform the vendor days, weeks or months in advance. If you can do this, if you can provision any resource whenever you want, **without involving humans and without delay, it meets this criteria**
+- Can provision capabilities (features and products - VM, storage, databases or networking) as needed without requiring human interaction
+- You don't need to inform the vendor days, weeks or months in advance. If you can do this, if you can provision any resource whenever you want, **without involving humans and without delay, it meets this criteria**
 - `Provision and terminate using a UI/CLI without human interaction`
 
 Broad network access
@@ -35,7 +35,7 @@ Rapid elasticity
 - To the consumers, the capabilities available for provisioning ofter **appear** to be **unlimited**
 - `Scale UP (OUT) and DOWN (IN) automatically in response to system load`
 
-Measured service 
+Measured service
 
 - Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts)Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service
 - Resource usage can be **monitored**, **controlled**, **reported** and **BILLED**
