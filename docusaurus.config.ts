@@ -7,10 +7,10 @@ const config: Config = {
   favicon: 'img/earth.ico',
 
   url: 'https://kyphan38.github.io',
-  baseUrl: '/website/',
+  baseUrl: '/web/',
 
   organizationName: 'kyphan38',
-  projectName: 'website',
+  projectName: 'web',
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -26,11 +26,12 @@ const config: Config = {
       'classic',
       {
         docs: {
-          path: 'docs',
-          sidebarPath: './sidebars.ts',
+          path: 'assets/docs',
+          sidebarPath: './sidebars/sidebars.ts',
+          routeBasePath: '/',
         },
         blog: {
-          path: 'blog',
+          path: 'assets/blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -62,6 +63,7 @@ const config: Config = {
           label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/travel', label: 'Travel', position: 'left'},
       ],
     },
     footer: {
